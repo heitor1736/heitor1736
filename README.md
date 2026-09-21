@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./unb-icc-ai-banner.png" alt="University of Brasilia modernist architecture with an artificial intelligence theme" width="100%" />
+  <img src="./codex-clipboard-ad67cdcc-2886-4670-8787-441d85e929f1.png" alt="ICC at the University of Brasília" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Heitor Matias Trindade 👋</h1>
